@@ -1,0 +1,9 @@
+.header a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: 500;
+    color: orange;
+}
+.header a:hover{
+    color: cornflowerblue;
+}
